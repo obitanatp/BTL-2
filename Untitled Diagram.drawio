@@ -1,4 +1,4 @@
-<mxfile modified="2022-12-27T03:56:34.991Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2_i0mHB2-0tIhMzCIitA" version="20.5.3" type="github">
+<mxfile modified="2022-12-27T04:01:02.846Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="c6njStRh-Y1RrrU1N9tR" version="20.5.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="14" value="&lt;b&gt;Signhere&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="99" width="770" height="321" as="geometry" />
-        </mxCell>
-        <mxCell id="818" value="Architecture: Websites &amp;gt; Content Hosting" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="40" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1046" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1036" target="ehH-QMvC_CBp4i9vaCpB-1051" edge="1">
           <mxGeometry relative="1" as="geometry">
