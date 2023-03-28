@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T07:13:35.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.7.4" etag="RGkKGN9KmcWBTfHbTa_C" type="github"><diagram id="2zkMjzwtLz8TMXzG2BhK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-28T08:05:02.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.7.4" etag="C2mC4D-mtGYJCxUnWlkJ" type="github">
+  <diagram id="qEQ1p_dhDs8cUsJ-6VT_" name="Page-1">
+    <mxGraphModel dx="1186" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Dev_Console.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="80" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="300" y="434.5" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="690" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-4" target="KILCN9Y3THgh-hcLu_NK-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="766.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo-700x700.png;" vertex="1" parent="1">
+          <mxGeometry x="285.25" y="590" width="109.5" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logowik.com/content/uploads/images/jenkins8460.jpg;imageBorder=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="434.5" width="127.33" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.knoldus.com/wp-content/uploads/2022/07/k6grafanainflux.jpg;" vertex="1" parent="1">
+          <mxGeometry x="10" y="840" width="310" height="88.23" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-18" target="KILCN9Y3THgh-hcLu_NK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="260" width="101" height="137.1" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:623/1*hV308VnNWS1xlrSaztOHkw.png;" vertex="1" parent="1">
+          <mxGeometry x="363.25" y="832.19" width="276.75" height="106.45" as="geometry" />
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-1" target="KILCN9Y3THgh-hcLu_NK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-2" target="KILCN9Y3THgh-hcLu_NK-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="sourcePoint" />
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-15" target="KILCN9Y3THgh-hcLu_NK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="740" as="sourcePoint" />
+            <mxPoint x="340" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-9" target="KILCN9Y3THgh-hcLu_NK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="740" as="sourcePoint" />
+            <mxPoint x="340" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KILCN9Y3THgh-hcLu_NK-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KILCN9Y3THgh-hcLu_NK-9" target="KILCN9Y3THgh-hcLu_NK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="790" as="sourcePoint" />
+            <mxPoint x="340" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
